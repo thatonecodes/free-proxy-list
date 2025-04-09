@@ -1,0 +1,42 @@
+name: Update
+
+
+permissions:
+  contents: write
+  repository-projects: write
+
+concurrency:
+  group: "update-${{ github.ref }}"
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+    inputs:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        run: |
+          git pull
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          make update
+          
+          git add .
+          changes=$(git diff --staged --numstat | wc -l)
+          if [[ $changes -gt 0 ]]
+          then
+            git commit -m "fix(list): updated list"
+            git push
+          fi
