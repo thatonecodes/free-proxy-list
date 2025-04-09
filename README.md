@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/badge/Updated_Every_5_Minutes-passing-success">  
   <br>
@@ -63,6 +62,27 @@ trojan://uuid@ip:port#name
 ss://id@ip:port
 ssr://id@ip:port
 ```
+
+## Checker
+Verify the quality of our proxy lists with our [Online Proxy Checker](https://getfreeproxy.com/checker). This tool evaluates each proxy's speed, anonymity level, and reliability. Our comprehensive checker provides detailed analytics for all supported protocols:
+
+- **Anonymity Levels**
+  - Elite (High Anonymity): Your IP remains completely hidden
+  - Anonymous (Medium Anonymity): Servers know you're using a proxy but can't see your real IP
+  - Transparent (Low Anonymity): Basic proxying with minimal identity protection
+  
+- **Protocol**
+  - HTTP/HTTPS
+  - SOCKS4/SOCKS5
+  - V2Ray/XRay
+  - Trojan
+  - ShadowSocks (SS/SSR)
+  
+- **Geolocation Data**
+  - Precise location detection
+  - Country of origin
+  - City information
+  - ISP details
 
 ## 🚀 Usage
 
