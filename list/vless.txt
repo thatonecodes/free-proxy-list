@@ -1667,7 +1667,6 @@ vless://4815dc93-e49f-4b05-a44a-dbf90985458a@159.89.216.103:6067?type=grpc&servi
 vless://7111df18-647b-40f9-aa89-4459d70b4656@159.89.249.32:443?security=tls&sni=uk.bntabriz.ir&type=ws&host=uk.bntabriz.ir&path=%2F40148%2Froot&fp=safari&alpn=http%2F1.1#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-159.89.249.32:443
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?security=none&type=ws&host=arvancloud.com&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-159.89.45.81:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.69.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%91%89%F0%9F%86%94
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.119.100:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-SE
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BF%F0%9F%87%A6%20ZA-160.123.255.159:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-160.153.0.108:2053
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&alpn=h2#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-160.153.0.108:2087
@@ -2566,7 +2565,6 @@ vless://28f8ba91-b3ff-4935-9a3f-4253d1fda074@178.239.146.76:2020?type=tcp&host=a
 vless://d960c347-afe3-4544-a2ff-06f4f03da2d2@178.255.222.25:44884?encryption=none&security=none&type=tcp&headerType=none#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://b06cf7e2-8d3f-4492-8c51-17bec52f88fe@178.63.228.220:443?security=reality&sni=fauxid.com&type=grpc&serviceName=%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&fp=chrome&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-178.63.228.220:443
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-179.61.219.170:22934
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.111.206:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%8F%B3%5Bopenproxylist.com%5D%20vless-
 vless://4260698c-e251-4454-904d-dea1cbdb7f7e@18.169.158.249:31641?security=reality&sni=s0.awsstatic.com&type=tcp&fp=chrome&pbk=umMTBR2TIwlPcd9TilfbnUTjszlT3H1y4Us2Z11ifl8#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.169.158.249:31641
 vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&serviceName=vless-grpc#%F0%9F%94%92%20VL-GRPC-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.113.8.229:8880
 vless://3c4340fb-3813-4b98-8357-77d95b534ed7@185.122.166.216:21948?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=VGL_AbRnnqUTi87R2JS6MbAsLqg5WeOQk3NSc6Opj1k&sid=fd17f122d63b#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-185.122.166.216:21948
@@ -2832,7 +2830,6 @@ vless://581a2135-58e8-438a-9d32-a589dbfe9369@188.165.41.206:443?security=reality
 vless://29e0223e-7329-48aa-ad2e-290c613cb54a@188.166.210.151:443?security=tls&flow=none&sni=facebook.com&type=tcp&fp=chrome#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-188.166.210.151:443
 vless://4815dc93-e49f-4b05-a44a-dbf90985458a@188.166.230.247:6067?security=none&type=grpc&serviceName=2055vless#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B8%F0%9F%87%AC%20SG-188.166.230.247:6067
 vless://46153d1a-ebe7-4218-9155-19618285a286@188.212.96.165:1720?security=none&type=tcp&host=speedtest.net&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-188.212.96.165:1720
-vless://c27c09f4-7a06-41a8-990c-09e31f82b4c2@188.213.129.126:444?security=reality&sni=fauxid.com&type=grpc&serviceName=NinjaV2ray&fp=chrome&pbk=y-gm5T_DCFudc3AsHCtTi-hFM-_OSGwmVjNZIZxtUhk#%F0%9F%87%A8%F0%9F%87%AD%5Bopenproxylist.com%5D%20vless-CH
 vless://823d4cd1-b204-4ba1-8f2f-92781bbf094c@188.213.129.15:443?security=reality&sni=app.hubspot.com&type=tcp&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A8%F0%9F%87%AD%20CH-188.213.129.15:443
 vless://1e9569c5-f581-463c-b667-34001ae127e8@188.213.129.55:8855?security=none&type=tcp&host=zula.ir&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A8%F0%9F%87%AD%20CH-188.213.129.55:8855
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@188.214.133.205:8443?security=tls&sni=lt2.fromblancwithlove.com&type=tcp&alpn=h2#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%B1%F0%9F%87%B9%20LT-188.214.133.205:8443
@@ -3790,7 +3787,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.19:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.202:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.202:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.204:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?type=grpc#%F0%9F%8F%B3%5Bopenproxylist.com%5D%20vless-
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.20:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.212:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B1%F0%9F%87%B9%20LT-84.32.9.215:8880
