@@ -353,6 +353,7 @@ trojan://2ggAcGC8hJ@15.204.237.31:2083?sni=USa-vp-31.MeTiKapps.Com&type=ws&host=
 trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@15.204.58.214:443?allowInsecure=1#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.58.214:443
 trojan://AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&type=ws&host=usA-Vp-249.MeTIkAppS.coM&path=/linkws#%F0%9F%94%92%20TR-WS-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.204.9.249:2083
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-15.235.197.4:80
+trojan://telegram-id-directvpn@15.237.136.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping:37.65ms%60
 trojan://telegram-id-directvpn@15.237.90.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AF%F0%9F%87%B5%20JP-150.230.201.192:443
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hgc6rct87gy.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.194.228:443
@@ -1077,5 +1078,6 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose03.890614.filegear-sg.me:44
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443?type=ws&sni=sanjose06.852224.ggff.net&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose06.852224.ggff.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%A9_ID_%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
 trojan://86920f59-7e5e-4272-abec-271bb931121c@sg.lyyyds.club:443?allowInsecure=0&sni=sg.lyyyds.club#%F0%9F%87%B8%F0%9F%87%AC%20_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://4467ae8518abf1ef321618c0bfb5549c@starlink-hkt2.2513142.xyz:28106?allowInsecure=1&sni=www.cloudflare.com#14%7CHK_speednode_0084
+trojan://74260698218909400@unified-lioness.shiner427.skin:443/?type=tcp&security=tls&sni=unified-lioness.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B3%C2%AE%EF%B8%8FIndia%C2%A9%EF%B8%8FNavi%20Mumbai%20(Rabale)%F0%9F%85%BF%EF%B8%8Fping:183.02ms%60
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200?sni=www.ak-hk.top#%F0%9F%87%AC%F0%9F%87%A7%5Bopenproxylist.com%5D%20trojan-GB
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.hk-jd.top:10021?security=tls&sni=www.hk-jd.top#%F0%9F%87%AE%F0%9F%87%B3IN-80.225.222.181-0463
