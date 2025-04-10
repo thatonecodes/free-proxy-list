@@ -687,6 +687,7 @@ trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#%F0%9F%9
 trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@18.141.138.96:443?security=tls&sni=mention.protocolbuffer.com#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-18.141.138.96:443
 trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
 trojan://telegram-id-privatevpns@18.175.111.129:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.175.111.129:22222
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@18.176.57.48:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AF%F0%9F%87%B5%20JP-18.176.57.48:20230
 trojan://Aimer@18.185.51.67:8080?security=tls&sni=epccr.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18.185.51.67:8080
 trojan://telegram-id-directvpn@18.193.179.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18.193.179.58:22222
 trojan://telegram-id-privatevpns@18.199.25.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
@@ -888,6 +889,8 @@ trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@34.218.205.11:20230?allowInsecure=
 trojan://telegram-id-directvpn@34.248.21.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-34.248.21.22:22222
 trojan://telegram-id-privatevpns@35.156.22.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-35.156.22.24:22222
 trojan://Aimer@35.167.93.200:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-35.167.93.200:443
+trojan://telegram-id-v2rayvpnchannel@35.179.191.172:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-35.179.191.172:22222
+trojan://telegram-id-privatevpns@35.181.36.60:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-35.181.36.60:22222
 trojan://Aimer@35.81.207.167:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-35.81.207.167:443
 trojan://47072f01-8e77-4136-8e85-b0f0d9d08f1d@35.89.233.88:20230?sni=421421.xyz#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-35.89.233.88:20230
 trojan://Aimer@37.157.192.61:9902?security=tls&sni=amepo.ambercc.filegear-sg.me&alpn=http%2F1.1&type=ws&host=amepo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#%E6%8D%B7%E5%85%8B%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
@@ -1055,6 +1058,7 @@ trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%94%92%2
 trojan://telegram-id-directvpn@52.56.145.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
 trojan://telegram-id-directvpn@52.56.73.225:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-52.56.73.225:22222
 trojan://Aimer@54.180.230.114:4433?sni=agepj.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-54.180.230.114:4433
+trojan://telegram-id-privatevpns@54.229.215.53:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-54.229.215.53:22222
 trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc&serviceName=db&alpn=h2#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%87%B9%F0%9F%87%BC%20TW-60.249.28.59:443
 trojan://3747000103274291200@62.112.221.57:443?security=tls&sni=integral-malamute.adder289.quest&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-62.112.221.57:443
 trojan://c3599d52-283c-4284-b8f1-15d05e3091b0@62.3.54.31:10102?security=tls&sni=sni.eos-suzhou-4.cmecloud.cn&type=tcp&fp=chrome#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AF%F0%9F%87%B5%20JP-62.3.54.31:10102
