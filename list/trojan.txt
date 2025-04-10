@@ -352,6 +352,7 @@ trojan://0uAOCSX3DFjDOuaacSDR75I3SqN7Bznx8Yaz8lRYyCDR2aZwwyRB5FpAlC9Sn6Epp3e8l@1
 trojan://telegram-id-directvpn@13.134.3.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me/ConfigsHub%60
 trojan://telegram-id-directvpn@13.216.192.206:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-13.216.192.206-1227
 trojan://telegram-id-directvpn@13.36.137.246:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.137.246-1247
+trojan://telegram-id-privatevpns@13.37.160.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping:35.36ms%60
 trojan://telegram-id-v2rayvpnchannel@13.38.168.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-13.38.168.181:22222
 trojan://telegram-id-directvpn@13.43.55.46:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-privatevpns@13.48.2.192:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
@@ -1052,6 +1053,7 @@ trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&typ
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@52.38.66.116:20230?security=tls&sni=421421.xyz#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@52.40.102.162:443?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-52.40.102.162:443
 trojan://telegram-id-directvpn@52.56.145.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
+trojan://telegram-id-directvpn@52.56.73.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FLondon%F0%9F%85%BF%EF%B8%8Fping:32.66ms%60
 trojan://telegram-id-directvpn@52.57.247.48:22222?allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20_%E5%BE%B7%E5%9B%BD
 trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?security=tls&sni=bapus.koreanbbq.link#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-52.78.39.86:443
 trojan://Aimer@54.180.230.114:4433?sni=agepj.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-54.180.230.114:4433
@@ -1144,9 +1146,10 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443?type
 trojan://86920f59-7e5e-4272-abec-271bb931121c@sg.lyyyds.club:443?allowInsecure=0&sni=sg.lyyyds.club#%F0%9F%87%B8%F0%9F%87%AC%20_%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://vip@skk.moe:2087/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/ConfigsHub%60
 trojan://4467ae8518abf1ef321618c0bfb5549c@starlink-hkt2.2513142.xyz:28106?allowInsecure=1&sni=www.cloudflare.com#14%7CHK_speednode_0084
+trojan://74260698218909400@unified-lioness.shiner427.skin:443/?type=tcp&security=tls&sni=unified-lioness.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B3%C2%AE%EF%B8%8FIndia%C2%A9%EF%B8%8FNavi%20Mumbai%20(Rabale)%F0%9F%85%BF%EF%B8%8Fping:153.83ms%60
 trojan://vip@whatismyipaddress.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/ConfigsHub%60
 trojan://vip@www.4chan.org:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/ConfigsHub%60
-trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200?sni=www.ak-hk.top#%F0%9F%87%AC%F0%9F%87%A7%5Bopenproxylist.com%5D%20trojan-GB
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200?allowInsecure=1#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FSlough%F0%9F%85%BF%EF%B8%8Fping:36.97ms%60
 trojan://vip@www.baipiao.eu.org:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/ConfigsHub%60
 trojan://vip@www.csgo.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%8F%81%5Dt.me/ConfigsHub%60
 trojan://vip@www.digitalocean.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/ConfigsHub%60
