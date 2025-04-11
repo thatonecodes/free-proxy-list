@@ -696,7 +696,6 @@ trojan://telegram-id-v2rayvpnchannel@18.159.27.56:22222?security=tls&sni=trojan.
 trojan://Aimer@18.167.37.206:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
 trojan://telegram-id-v2rayvpnchannel@18.168.210.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.168.210.61:22222
 trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
-trojan://telegram-id-privatevpns@18.169.88.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FLondon%F0%9F%85%BF%EF%B8%8Fping:42.36ms%60
 trojan://Aimer@18.185.51.67:8080?security=tls&sni=epccr.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18.185.51.67:8080
 trojan://telegram-id-privatevpns@18.199.25.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94
 trojan://0000000@18.238.109.37:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-18.238.109.37:443
@@ -1158,15 +1157,11 @@ trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.x
 trojan://NEHZp72yf2@95.181.162.233:443?security=tls&sni=dr-ping.ir&type=tcp&host=Zula.ir&headerType=http&fp=randomized#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-95.181.162.233:443
 trojan://3747000103274291200@95.85.93.45:443?sni=simple-coyote.adder289.quest&type=tcp&host=simple-coyote.adder289.quest&allowInsecure=1#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-95.85.93.45:443
 trojan://telegram-id-directvpn@99.81.196.54:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-99.81.196.54:22222
-trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:61.4ms%60
 trojan://VMhGp5wEIyCDf90T@csuzhou01.1cooldns.com:42303?allowInsecure=0&sni=hk06.run.place#%E8%AE%A2%E9%98%85%E9%9A%8F%E6%97%B6%E4%BC%9A%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E5%8A%A0%E7%94%B5%E6%8A%A5%E7%BE%A4%E9%98%B2%E6%AD%A2%E5%A4%B1%E8%81%94
 trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@ignacio.ns.cloudflare.com:443?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://T%40_WvT8Ho%40LW%25w_,@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=nop-55q.pages.dev&fp=randomized&type=ws&sni=NOp-55q.pAgEs.dEv#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:24.56ms%60
-trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%20(Frankfurt-S%C3%BCd)%F0%9F%85%BF%EF%B8%8Fping:39.32ms%60
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443?type=ws&sni=sanjose06.852224.ggff.net&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose06.852224.ggff.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%A9_ID_%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
-trojan://74260698218909400@smooth-imp.shiner427.skin:443/?type=tcp&security=tls&sni=smooth-imp.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FKoto-ku%20(Toyosu)%F0%9F%85%BF%EF%B8%8Fping:248.83ms%60
 trojan://Aimer@theo.ns.cloudflare.com:443?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
