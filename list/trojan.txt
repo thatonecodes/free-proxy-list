@@ -888,6 +888,7 @@ trojan://Aimer@27.50.49.47:2083?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0
 trojan://Aimer@27.50.49.61:2096?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
 trojan://Aimer@27.50.49.74:2087?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B8%F0%9F%87%AC%20SG-27.50.49.74:2087
 trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@3.0.61.142:20230?security=tls&sni=421421.xyz#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-3.0.61.142:20230
+trojan://telegram-id-privatevpns@3.126.239.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping:32.83ms%60
 trojan://3747000103274291200@3.216.105.141:443?sni=crisp-gibbon.adder289.quest&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-3.216.105.141:443
 trojan://8D7cKgBRSZ7DRxaAOD4BOYAe3Z8wCSAya3AaD2lp3gxz5xpl0lXZ93F6EjuY2RIC3q8uZ@3.25.239.76:443?security=tls&sni=ttolpro.bigkangaroo.net#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A6%F0%9F%87%BA%20AU-3.25.239.76:443
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@3.2gyh5ybsic.xyz:20103?type=tcp&security=tls&sni=3.2gyh5ybsic.xyz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_1
@@ -1165,6 +1166,6 @@ trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.fi
 trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose01.852224.ggff.net:443/?type=ws&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=sanjose01.852224.ggff.net&alpn=http%2F1.1#%F0%9F%96%B2%EF%B8%8F59@oneclickvpnkeys%60
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443?type=ws&sni=sanjose06.852224.ggff.net&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose06.852224.ggff.net#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%A9_ID_%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
-trojan://74260698218909400@smooth-imp.shiner427.skin:443/?type=tcp&security=tls&sni=smooth-imp.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FKoto-ku%20(Toyosu)%F0%9F%85%BF%EF%B8%8Fping:265.79ms%60
+trojan://74260698218909400@smooth-imp.shiner427.skin:443/?type=tcp&security=tls&sni=smooth-imp.shiner427.skin#%5B%F0%9F%8F%81%5Dt.me/ConfigsHub%60
 trojan://Aimer@theo.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://74260698218909400@unified-lioness.shiner427.skin:443/?type=tcp&security=tls&sni=unified-lioness.shiner427.skin#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B3%C2%AE%EF%B8%8FIndia%C2%A9%EF%B8%8FNavi%20Mumbai%20(Rabale)%F0%9F%85%BF%EF%B8%8Fping:163.1ms%60
