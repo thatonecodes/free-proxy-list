@@ -344,7 +344,7 @@ trojan://4467ae8518abf1ef321618c0bfb5549c@119.237.241.138:28106?sni=www.cloudfla
 trojan://Aimer@121.128.254.108:34522?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.128.254.108:34522
 trojan://Aimer@121.135.67.36:12205?security=tls&sni=epccw.ambercc.filegear-sg.me&type=ws&host=epccw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.135.67.36:12205
 trojan://Aimer@121.144.201.72:12434?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-trojan://ji0612uenfs@121.167.108.242:50000?sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&path=%2F%3Fed%3D2560%26proxyip%3D121.167.108.242%3A50000#13%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+trojan://ji0612uenfs@121.167.108.242:50000?sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&path=%2F%3Fed%3D2560%26proxyip%3D121.167.108.242%3A50000#12%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
 trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.180.184.145:50000
 trojan://Aimer@124.156.202.172:443?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-124.156.202.172:443
 trojan://Aimer@125.130.217.48:11596?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
@@ -1159,6 +1159,7 @@ trojan://dQUWbcwECl@automq4-proxy.automq-sg.com:443?allowInsecure=0#%F0%9F%87%B8
 trojan://Aimer@bestcf.030101.xyz:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://VMhGp5wEIyCDf90T@gysz0000.dynu.net:38340?allowInsecure=1&sni=hk39.work.gd#1%7C%F0%9F%87%B8%F0%9F%87%AC7%20%7C%20%201.8MB/s
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
