@@ -352,7 +352,7 @@ trojan://Aimer@121.140.60.17:10046?allowInsecure=0&sni=epcct.ambercc.filegear-sg
 trojan://Aimer@121.144.201.72:12434?sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD3
 trojan://Aimer@121.153.131.218:12461?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
 trojan://Aimer@121.163.248.127:50000?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-trojan://ji0612uenfs@121.167.108.242:50000?sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&path=%2F%3Fed%3D2560%26proxyip%3D121.167.108.242%3A50000#13%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
+trojan://ji0612uenfs@121.167.108.242:50000?sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&path=%2F%3Fed%3D2560%26proxyip%3D121.167.108.242%3A50000#12%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian
 trojan://Aimer@121.180.184.145:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.180.184.145:50000
 trojan://Aimer@124.156.202.172:443?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-124.156.202.172:443
 trojan://Aimer@125.132.46.2:10022?sni=agepq.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-125.132.46.2:10022
@@ -836,6 +836,7 @@ trojan://Aimer@199.34.228.50:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&
 trojan://Aimer@199.34.228.66:2053?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://SSorg@199.34.228.71:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.34.228.71:8443
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.59.243.228:443
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@1p.890689.xyz:443/?type=ws&path=%2FlXENb74xF4ylXngZ&security=tls&sni=1P.890689.xyZ&alpn=http%2F1.1#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%60
 trojan://nV1T2yKo1rOwLZjnugomhg@20.173.66.64:2083?security=tls&sni=0c4890bb81ee4c8e.gstatic.com&type=ws#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B6%F0%9F%87%A6%20QA-20.173.66.64:2083
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AD%F0%9F%87%B0%20HK-20.187.85.198:443
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.2.156.105:443?sni=ru.mjt000.com&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%AD%F0%9F%87%B0%20HK-20.2.156.105:443
@@ -1223,14 +1224,17 @@ trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.file
 trojan://VMhGp5wEIyCDf90T@gysz0000.dynu.net:38340?sni=gysz0000.dynu.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://3ffa664f-364a-4937-a314-1d9f02ad8458@lbso.bnnodeservice.com:32443?allowInsecure=0&sni=cert.bitbyte.one#1%7C%F0%9F%87%AD%F0%9F%87%B06%20%7C%20%206.3MB/s
 trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epccr.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
-trojan://12bb340e-291c-406a-8402-c43f37fa201d@oxui.supercopilot.top:443?allowInsecure=0&type=ws&path=/12bb340e-291c-406a-8402-c43f37fa201d#2%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.3MB/s
+trojan://12bb340e-291c-406a-8402-c43f37fa201d@oxui.supercopilot.top:443?allowInsecure=0&type=ws&path=/12bb340e-291c-406a-8402-c43f37fa201d#1%7C%F0%9F%87%BA%F0%9F%87%B815%20%7C%20%202.0MB/s
 trojan://74260698218909400@patient-crawdad.shiner427.skin:443/?type=tcp&security=tls&sni=patient-crawdad.shiner427.skin#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%60
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@sage.ns.cloudflare.com:443?sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443/?type=ws&host=sanjose06.852224.ggff.net&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=sanjose06.852224.ggff.net&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%60
+trojan://74260698218909400@smooth-imp.shiner427.skin:443/?type=tcp&security=tls&sni=smooth-imp.shiner427.skin#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%60
 trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@theo.ns.cloudflare.com:443?allowInsecure=0&sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@usa-sanjose-one.890614.filegear-sg.me:443/?type=ws&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=usa-sanjose-one.890614.filegear-sg.me&alpn=http%2F1.1#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%60
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-84.8.159.155-0450
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.hk-jd.top:10230?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B3%5Bopenproxylist.com%5D%20trojan-IN
