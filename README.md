@@ -127,6 +127,8 @@ Special thanks to all the services and repositories that provide proxy data. The
 
 We appreciate these projects for sharing their proxy lists which help make this repository possible.
 
+Please raise a PR to remove if you are the owner of any of the sources listed in the `./sources` directory and do not want your source to be listed here.
+
 ## 📝 License
 
 This repository is released under the MIT license. See [LICENSE](LICENSE) for details.
