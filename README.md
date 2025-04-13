@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/license/gfpcom/free-proxy-list.svg">
   <br>
   <br>
-  <a href="https://getfreeproxy.com" title="free online proxy list">Online Proxy API</a> | <a href="https://getfreeproxy/checker" title="free online proxy checker">Online Proxy Checker</a>| <a href="https://getfreeproxy/db" title="free onine proxy database">Online Proxy Database</a> | <a href="https://github.com/gfpcom/free-proxy-list">Github</a>
+  <a href="https://getfreeproxy.com" title="free online proxy list">Online Proxy List</a> | <a href="https://getfreeproxy.com/checker" title="free online proxy checker">Online Proxy Checker</a>| <a href="https://getfreeproxy.com/db" title="free onine proxy database">Online Proxy Database</a> | <a href="https://github.com/gfpcom/free-proxy-list">Github</a>
   <br>
 </p>
 
