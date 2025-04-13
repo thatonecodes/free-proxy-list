@@ -30,6 +30,10 @@ func GetParser(name string) Parser {
 	return ParseProxyURL
 }
 
+func init() {
+	Parsers["ColonURL"] = ParseColonURL
+}
+
 func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 	if !strings.Contains(proxyURL, "://") {
 		proxyURL = proto + "://" + proxyURL
@@ -70,7 +74,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 			IP: vu.Host(),
 		}
 
-		port, err := strconv.Atoi(u.Port())
+		port, err := strconv.Atoi(vu.Port())
 		if err != nil {
 			return nil, ErrInvalidProxy
 		}
@@ -87,7 +91,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 			IP: vu.Host(),
 		}
 
-		port, err := strconv.Atoi(u.Port())
+		port, err := strconv.Atoi(vu.Port())
 		if err != nil {
 			return nil, ErrInvalidProxy
 		}
@@ -103,7 +107,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 			IP: vu.Host(),
 		}
 
-		port, err := strconv.Atoi(u.Port())
+		port, err := strconv.Atoi(vu.Port())
 		if err != nil {
 			return nil, ErrInvalidProxy
 		}
@@ -119,7 +123,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 			IP: vu.Host(),
 		}
 
-		port, err := strconv.Atoi(u.Port())
+		port, err := strconv.Atoi(vu.Port())
 		if err != nil {
 			return nil, ErrInvalidProxy
 		}
@@ -135,7 +139,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 			IP: vu.Host(),
 		}
 
-		port, err := strconv.Atoi(u.Port())
+		port, err := strconv.Atoi(vu.Port())
 		if err != nil {
 			return nil, ErrInvalidProxy
 		}
@@ -159,4 +163,18 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 
 func IsLocal(ip string) bool {
 	return strings.HasPrefix(ip, "0.") || strings.HasPrefix(ip, "127.") || strings.HasPrefix(ip, "169.254.")
+}
+
+func IsLocalIP(ip string) bool {
+	return strings.HasPrefix(ip, "0.") || strings.HasPrefix(ip, "127.") || strings.HasPrefix(ip, "169.254.")
+}
+
+func ParseColonURL(proto, proxyURL string) (*Proxy, error) {
+	items := strings.Split(proxyURL, ":")
+
+	if len(items) < 2 {
+		return nil, ErrInvalidProxy
+	}
+
+	return ParseProxyURL(proto, items[0]+":"+items[1])
 }
