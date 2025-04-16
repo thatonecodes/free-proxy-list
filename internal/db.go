@@ -59,10 +59,13 @@ func WriteTo(dir string) {
 
 		file.WriteString(it.String() + "\n") // nolint: errcheck
 	}
-
+	total := 0
 	for proto, n := range counters {
+		total += n
 		WriteBadge(dir, proto, n)
 	}
+
+	WriteBadge(dir, "total", total)
 }
 
 func WriteBadge(dir, proto string, total int) {

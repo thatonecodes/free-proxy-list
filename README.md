@@ -2,8 +2,10 @@
   <img src="https://img.shields.io/badge/Updated_Every_30_Minutes-passing-success">  
   <br>
   <img src="https://img.shields.io/website/https/getfreeproxy.com.svg">
+  <img src="./list/total.svg">
   <img src="https://img.shields.io/github/last-commit/gfpcom/free-proxy-list.svg">
   <img src="https://img.shields.io/github/license/gfpcom/free-proxy-list.svg">
+  
   <br>
   <br>
   <a href="https://getfreeproxy.com" title="free online proxy list">Online Proxy List</a> | <a href="https://getfreeproxy.com/checker" title="free online proxy checker">Online Proxy Checker</a>| <a href="https://getfreeproxy.com/db" title="free onine proxy database">Online Proxy Database</a> | <a href="https://github.com/gfpcom/free-proxy-list">Github</a>
