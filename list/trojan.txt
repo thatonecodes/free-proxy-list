@@ -2305,7 +2305,7 @@ trojan://telegram-id-privatevpns@15.188.7.114:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@15.188.70.236:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-5580
 trojan://telegram-id-privatevpns@15.188.72.68:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%20@MoftConfigFrance
 trojan://5ea6f474-ba78-4f83-b10f-8138b02e8cbc@15.188.8.63:443?allowInsecure=1&sni=data.amazon-azure.com
-trojan://telegram-id-privatevpns@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%5B%F0%9F%87%AB%F0%9F%87%B7%5Dt.me/ConfigsHub%60
+trojan://telegram-id-directvpn@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFrance%C2%A9%EF%B8%8FParis%F0%9F%85%BF%EF%B8%8Fping:40.98ms%60
 trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@15.197.162.184:443?security=tls&sni=download2hkt.windowsupdate.lol#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-15.197.162.184:443
 trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&type=ws&sni=usa-vp-111.mETIkaPPs.cOm&path=/linkvws&host=usa-vp-111.mETIkaPPs.cOm#US13
 trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?security=tls#4Sarina-3972
@@ -7539,7 +7539,7 @@ trojan://opentunnel.net-oqtxymz6gjl3@nlt-1.opensvr.net:443?allowInsecure=0
 trojan://95445f91-9786-44e0-8df4-e8a02f8f635f@nmcm.lele233.top:57299?allowInsecure=1&sni=uk01.ckcloud.info
 trojan://EE772D86-0CC5-5114-DA0E-B1ACB31061FF@node-d.iepl-relay.02.oni-chan.xyz:20062?allowInsecure=1&sni=al-game.flv.huya.com
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@nodeU46352173db.asia.huawei-cacahe.com:31288?allowInsecure=1&sni=nodeU46352173db.asia.huawei-cacahe.com
-trojan://T%40_WvT8Ho%40LW%25w_,@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=nop-55q.pages.dev&fp=randomized&type=ws&sni=NOp-55q.pAgEs.dEv#%20@MoftConfigCanada%20ping:174.46ms
+trojan://T%40_WvT8Ho%40LW%25w_,@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=nop-55q.pages.dev&fp=randomized&type=ws&sni=NOp-55q.pAgEs.dEv#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:8.74ms%60
 trojan://61d4840a5f23ac24873dd72e54a607e7@notice.2513142.xyz:443/?type=ws&path=%2F&security=tls&sni=notice.2513142.xyz&allowInsecure=1#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:16.55ms%60
 trojan://f3389204-7adb-45d8-906c-c17792336574@nsaghhfhitw.559xp5.cn:443?allowInsecure=1
 trojan://a1925233-669e-4068-b740-d77f41986c43@ny01.818185.xyz:443/?type=ws&host=ny01.818185.xyz&path=%2FntYHBqnVdmD26DxDtOnU&security=tls&sni=ny01.818185.xyz&alpn=http%2F1.1&fp=chrome#%20@MoftConfigCanada
