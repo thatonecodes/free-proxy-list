@@ -48,22 +48,6 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 
 	var it *Proxy
 	switch scheme {
-	case "http", "https", "socks4", "socks4a", "socks5", "socks5h":
-		it = &Proxy{
-			IP:   u.Hostname(),
-			User: u.User.Username(),
-		}
-
-		port, err := strconv.Atoi(u.Port())
-		if err != nil {
-			return nil, ErrInvalidProxy
-		}
-
-		it.Port = port
-
-		it.Passwd, _ = u.User.Password()
-		it.Protocol = proto
-
 	case "vmess":
 		vu, err := xray.ParseVmessURL(u)
 		if err != nil {
@@ -145,7 +129,21 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 		}
 		it.Port = port
 		it.Opaque = strings.TrimPrefix(vu.Raw().String(), "ssr://")
+	default: // "http", "https", "socks4", "socks4a", "socks5", "socks5h":
+		it = &Proxy{
+			IP:   u.Hostname(),
+			User: u.User.Username(),
+		}
 
+		port, err := strconv.Atoi(u.Port())
+		if err != nil {
+			return nil, ErrInvalidProxy
+		}
+
+		it.Port = port
+
+		it.Passwd, _ = u.User.Password()
+		it.Protocol = proto
 	}
 
 	if it == nil {
