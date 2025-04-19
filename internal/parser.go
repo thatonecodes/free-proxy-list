@@ -2,6 +2,7 @@ package internal
 
 import (
 	"errors"
+	"log/slog"
 	"net/url"
 	"strconv"
 	"strings"
@@ -148,6 +149,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 	}
 
 	if IsLocal(it.IP) || !proxyclient.IsHost(it.IP) {
+		slog.Warn("gfp: invalid", slog.String("proto", proto), slog.String("proxy", proxyURL), slog.String("ip", it.IP))
 		return nil, ErrInvalidProxy
 	}
 
