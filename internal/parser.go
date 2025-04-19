@@ -147,7 +147,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 		it.Protocol = proto
 	}
 
-	if IsLocal(it.IP) || proxyclient.IsHost(it.IP) {
+	if IsLocal(it.IP) || !proxyclient.IsHost(it.IP) {
 		return nil, ErrInvalidProxy
 	}
 
