@@ -144,7 +144,7 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 		it.Port = port
 
 		it.Passwd, _ = u.User.Password()
-		it.Protocol = proto
+		it.Protocol = scheme
 	}
 
 	if IsLocal(it.IP) || !proxyclient.IsHost(it.IP) {
