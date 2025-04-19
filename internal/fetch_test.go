@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestFet(t *testing.T) {
+func TestFetch(t *testing.T) {
 	if os.Getenv("GITHUB_ACTIONS") == "true" {
 		t.Skip("Skipping test in GitHub Actions environment")
 	}
