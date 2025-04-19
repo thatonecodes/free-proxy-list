@@ -148,7 +148,11 @@ func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
 		it.Protocol = scheme
 	}
 
-	if IsLocal(it.IP) || !proxyclient.IsHost(it.IP) {
+	if IsLocal(it.IP) {
+		return nil, ErrInvalidProxy
+	}
+
+	if !proxyclient.IsHost(it.IP) {
 		slog.Warn("gfp: invalid", slog.String("proto", proto), slog.String("proxy", proxyURL), slog.String("ip", it.IP))
 		return nil, ErrInvalidProxy
 	}
