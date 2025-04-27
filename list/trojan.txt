@@ -2645,6 +2645,7 @@ trojan://Aimer@162.159.130.123:443?sni=epccu.ambercc.filegear-sg.me#4Nika-4675
 trojan://Aimer@162.159.130.181:443?sni=epcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#4Nika-4676
 trojan://Aimer@162.159.130.197:443?sni=epcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#4Nika-4677
 trojan://Aimer@162.159.130.206:443?sni=epccu.ambercc.filegear-sg.me#4Nika-4678
+trojan://Aimer@162.159.130.214:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.130.214:443
 trojan://Aimer@162.159.130.245:443?sni=epcco.ambercc.filegear-sg.me#4Nika-4679
 trojan://Aimer@162.159.130.32:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#4Nika-4680
 trojan://Aimer@162.159.130.44:443?sni=epccu.ambercc.filegear-sg.me&allowInsecure=0#4Nika-4681
@@ -2669,6 +2670,7 @@ trojan://Aimer@162.159.134.201:443?sni=epcca.ambercc.filegear-sg.me#4Nika-4693
 trojan://Aimer@162.159.134.207:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#4Nika-4694
 trojan://Aimer@162.159.134.228:443?sni=epcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#4Nika-4695
 trojan://NISHIKUITAN222@162.159.134.253:443?#%20TR-TCP-NA%20%20NA-162.159.134.253:443
+trojan://Aimer@162.159.135.149:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.135.149:443
 trojan://Aimer@162.159.135.157:443?sni=epcca.ambercc.filegear-sg.me#4Nika-4696
 trojan://Aimer@162.159.135.181:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#4Nika-4697
 trojan://Aimer@162.159.135.205:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#4Nika-4698
@@ -5631,7 +5633,7 @@ trojan://telegram-id-directvpn@52.16.255.13:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.16.43.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.16.85.24:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
 trojan://telegram-id-privatevpns@52.17.237.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)@MoftConfig
-trojan://telegram-id-directvpn@52.17.32.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@52.17.32.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.10.203:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[]t.me/ConfigsHub
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.10.24:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[]t.me/ConfigsHub
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.13.66:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[]t.me/MoftConfig
@@ -6085,7 +6087,7 @@ trojan://telegram-id-directvpn@63.177.195.24:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@63.177.2.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.177.200.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%20@MoftConfigGermany
 trojan://telegram-id-directvpn@63.177.204.133:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[]t.me/ConfigsHub
-trojan://telegram-id-vlessconfig@63.177.205.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%20120%20%7C%20Ord-07%7C%20MTSRVRS
+trojan://telegram-id-privatevpns@63.177.205.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)%F0%9F%87%A9%F0%9F%87%AAt.me/PrivateVPNs
 trojan://telegram-id-directvpn@63.177.212.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-privatevpns@63.177.217.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.177.220.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
@@ -8514,8 +8516,8 @@ trojan://Qp3Vk8YmXs@z-v2-086510.kailib.com:443?sni=ash.91a24812-210d-4f88-b520-4
 trojan://Qp3Vk8YmXs@z-v2-086622.kailib.com:443?sni=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com#%20@MoftConfigCanada
 trojan://Qp3Vk8YmXs@z-v2-086676.kailib.com:443?sni=ash.f3f93b29-43d0-4aa1-87c5-574f5fafbda7.kailib.com#%20@MoftConfigCanada
 trojan://Km8Vr6QzLf@z-v2-089561.kailib.com:443?security=tls&headerType=&type=tcp#Telegram:@IP_CF
-trojan://Km8Vr6QzLf@z-v2-089607.kailib.com:443?security=tls&headerType=&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping:62.81ms
-trojan://Wd9QmL5Vr2Z6@z-v2-090873.kailib.com:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7%C2%AE%EF%B8%8FUnited%20Kingdom%C2%A9%EF%B8%8FLondon%F0%9F%85%BF%EF%B8%8Fping:149.13ms
+trojan://Km8Vr6QzLf@z-v2-089607.kailib.com:443?security=tls&headerType=&type=tcp#@MoftConfigGermanyFrankfurt%20am%20Mainping:62.81ms
+trojan://Wd9QmL5Vr2Z6@z-v2-090873.kailib.com:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#@MoftConfigUnited%20KingdomLondonping:154.24ms
 trojan://Wd9QmL5Vr2Z6@z-v2-090875.kailib.com:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#Telegram:@IP_CF
 trojan://Wd9QmL5Vr2Z6@z-v2-090876.kailib.com:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#Telegram:@IP_CF
 trojan://Wd9QmL5Vr2Z6@z-v2-090881.kailib.com:443?security=tls&headerType=&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#@MoftConfigJapanHaramachidaping:330.19ms
