@@ -1360,7 +1360,7 @@ trojan://NISHIKUITAN222@104.25.66.7:443?allowInsecure=1#%20TR-TCP-NA%20%20NA-104
 trojan://NISHIKUITAN222@104.25.76.106:443?#%E6%9C%AA%E7%9F%A536
 trojan://123456@104.25.97.27:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#4Sarina-3439
 trojan://eea50240-af91-11ed-b638-205c6d5f5d78@104.251.123.106:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=bmi.ir#US
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://Aimer@104.26.0.227:443?sni=epccj.ambercc.filegear-sg.me#4Sarina-4598
 trojan://NISHIKUITAN222@104.26.1.19:443?#%20TR-TCP-NA%20%20NA-104.26.1.19:443
 trojan://Aimer@104.26.1.253:443?sni=epccf.ambercc.filegear-sg.me#4Sarina-4599
@@ -7767,7 +7767,6 @@ trojan://3774827088566296576@exotic-bengal.treefrog761.one:443#Singapore
 trojan://3828095943467868160@exotic-wahoo.dolphin109.quest:443/?type=tcp&security=tls&sni=exotic-wahoo.dolphin109.quest#[]t.me/ConfigsHub
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@Vip_Security%20join%20us%20-%20412
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@f10921d6-swrwg0-t1bnjq-1krtb.cu.plebai.net:15229?security=tls&amp;headerType=&amp;type=tcp&amp;sni=f10921d6-swrwg0-t1bnjq-1krtb.cu.plebai.net#%F0%9F%87%A8%F0%9F%87%B3%7CCN%7C@wxgqlfx%7C207
-trojan://93fb69fc-77cf-11ee-85ee-f23c91369f2d@f1e4e0ee-swin40-t12cnj-1ol97.cu.plebai.net:15229?security=tls&sni=f1e4e0ee-swin40-t12cnj-1ol97.cu.plebai.net#4Nika-4254
 trojan://c3e116b3-9a36-4a1c-a23e-13265766a58e@f408e68293929ea80befdd244aa9d023.v1.cac.node-is.green:42523/?type=tcp&security=tls&sni=hk14.bilibili.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E7%BE%8E%E5%9B%BD%2024
 trojan://c3e116b3-9a36-4a1c-a23e-13265766a58e@f530a862601601322dc54c086eb83c3a.us.in.node-is.green:40997/?type=tcp&security=tls&sni=local.bilibili.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E7%BE%8E%E5%9B%BD%2009
 trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls#4Sarina-3388
@@ -8313,7 +8312,6 @@ trojan://b0c630cd-b970-458a-bce0-48d3e62ad06c@jp03.170203.xyz:443
 trojan://b6440884-b770-4c37-b8c8-fc2d34395181@jp03.fasttudou.top:12012
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#4Sarina-4215
 trojan://e2f42776-1822-4e5f-8a3d-292071558c48@jp04.170203.xyz:34345
-trojan://acf34fb3-6fed-40c6-b6ab-b5bedf5827a2@jp04.vproxy.us:56565?security=tls#4Nika-5742
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#4Sarina-4216
 trojan://b0c630cd-b970-458a-bce0-48d3e62ad06c@jp05.170203.xyz:443
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#4Sarina-4217
