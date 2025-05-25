@@ -1382,7 +1382,7 @@ trojan://NISHIKUITAN222@104.25.66.7:443?allowInsecure=1#%20TR-TCP-NA%20%20NA-104
 trojan://NISHIKUITAN222@104.25.76.106:443?#%E6%9C%AA%E7%9F%A536
 trojan://123456@104.25.97.27:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#4Nika-3489
 trojan://eea50240-af91-11ed-b638-205c6d5f5d78@104.251.123.106:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=bmi.ir#US
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://Aimer@104.26.0.227:443?sni=epccj.ambercc.filegear-sg.me#4Nika-4664
 trojan://Aimer@104.26.0.24:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#4Nika-4665
 trojan://NISHIKUITAN222@104.26.1.19:443?#%20TR-TCP-NA%20%20NA-104.26.1.19:443
@@ -8400,7 +8400,7 @@ trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@jsU46352173.edge.huawei-static.com:39596?allowInsecure=1&sni=jsU46352173.edge.huawei-static.com
 trojan://878687e4-48a6-4296-a0a4-1985a01fd21d@jscm.lele233.top:10021?allowInsecure=1&sni=uk01.ckcloud.info
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@jsu46352173.edge.huawei-static.com:39596?allowInsecure=1&sni=jsU46352173.edge.huawei-static.com
-trojan://juzi@juzi8186-sr1.pages.dev:443/?type=ws&host=juzi8186-sr1.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev&alpn=h3&fp=randomized#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://juzi@juzi8186-sr1.pages.dev:443/?type=ws&host=juzi8186-sr1.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev&alpn=h3&fp=randomized#Join+Telegram:@Farah_VPN
 trojan://86bbd104-738d-4d9d-8122-c31d9bb837b6@k-r03.niuniucloud.xyz:53024
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443?allowInsecure=1&sni=paydiu.com
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?allowInsecure=1&sni=paydiu.com
