@@ -34,6 +34,7 @@ func GetParser(name string) Parser {
 
 func init() {
 	Parsers["ColonURL"] = ParseColonURL
+	Parsers["SpaceURL"] = ParseSpaceURL
 }
 
 func ParseProxyURL(proto, proxyURL string) (*Proxy, error) {
@@ -168,6 +169,16 @@ func IsLocal(ip string) bool {
 
 func ParseColonURL(proto, proxyURL string) (*Proxy, error) {
 	items := strings.Split(proxyURL, ":")
+
+	if len(items) < 2 {
+		return nil, ErrInvalidProxy
+	}
+
+	return ParseProxyURL(proto, items[0]+":"+items[1])
+}
+
+func ParseSpaceURL(proto, proxyURL string) (*Proxy, error) {
+	items := strings.Split(proxyURL, " ")
 
 	if len(items) < 2 {
 		return nil, ErrInvalidProxy
