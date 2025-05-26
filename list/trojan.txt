@@ -2739,8 +2739,8 @@ trojan://telegram-id-privatevpns@15.236.239.28:22222
 trojan://telegram-id-privatevpns@15.236.240.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@15.236.242.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@15.236.250.80:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
-trojan://telegram-id-privatevpns@15.236.27.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)%F0%9F%87%A8%F0%9F%87%B5t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.236.27.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel%20:%20@DirectVPN
+trojan://telegram-id-privatevpns@15.236.27.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2064%20%7C%20Kho-05%7C%20MTSRVRS
+trojan://telegram-id-directvpn@15.236.27.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-v2rayvpnchannel@15.236.33.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20382
 trojan://telegram-id-directvpn@15.236.46.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.5.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
@@ -6957,7 +6957,7 @@ trojan://telegram-id-directvpn@63.178.160.154:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.178.27.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)@MoftConfig
 trojan://telegram-id-v2rayvpnchannel@63.178.27.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20428
 trojan://telegram-id-privatevpns@63.178.35.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20357
-trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.178.61.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)@MoftConfig
 trojan://telegram-id-v2rayvpnchannel@63.178.61.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20430
@@ -8364,7 +8364,7 @@ trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@jsU46352173.edge.huawei-static.com:39596?allowInsecure=1&sni=jsU46352173.edge.huawei-static.com
 trojan://878687e4-48a6-4296-a0a4-1985a01fd21d@jscm.lele233.top:10021?allowInsecure=1&sni=uk01.ckcloud.info
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@jsu46352173.edge.huawei-static.com:39596?allowInsecure=1&sni=jsU46352173.edge.huawei-static.com
-trojan://juzi@juzi8186-sr1.pages.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=juzi8186-sr1.pages.dev&fp=randomized&type=ws&sni=juzi8186-sr1.pages.dev#%5B%5Dt.me/ConfigsHub%60
+trojan://juzi@juzi8186-sr1.pages.dev:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=juzi8186-sr1.pages.dev&fp=randomized&type=ws&sni=juzi8186-sr1.pages.dev#[]t.me/MoftConfig
 trojan://86bbd104-738d-4d9d-8122-c31d9bb837b6@k-r03.niuniucloud.xyz:53024
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443?allowInsecure=1&sni=paydiu.com
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?allowInsecure=1&sni=paydiu.com
