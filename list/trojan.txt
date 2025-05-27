@@ -1401,7 +1401,7 @@ trojan://NISHIKUITAN222@104.25.66.7:443?allowInsecure=1#%20TR-TCP-NA%20%20NA-104
 trojan://NISHIKUITAN222@104.25.76.106:443?#%E6%9C%AA%E7%9F%A536
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#4Kian-3370
 trojan://eea50240-af91-11ed-b638-205c6d5f5d78@104.251.123.106:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=bmi.ir#US
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://Aimer@104.26.0.227:443?sni=epccj.ambercc.filegear-sg.me#4Kian-4556
 trojan://Aimer@104.26.0.24:443?sni=epccv.ambercc.filegear-sg.me&allowInsecure=0#4Kian-4557
 trojan://NISHIKUITAN222@104.26.1.19:443?#%20TR-TCP-NA%20%20NA-104.26.1.19:443
@@ -5348,7 +5348,7 @@ trojan://telegram-id-privatevpns@3.65.75.114:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.65.76.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.65.81.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.65.90.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
-trojan://telegram-id-directvpn@3.65.90.174:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-directvpn@3.65.90.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-privatevpns@3.65.99.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://juzi@3.66.115.225:443?sni=juzi8186-sr1.pages.dev#4Kian-6140
 trojan://telegram-id-privatevpns@3.66.116.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
@@ -6358,7 +6358,7 @@ trojan://telegram-id-directvpn@51.21.46.119:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.21.49.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%20TR-TCP-TLS%20%20SE-51.21.49.146:22222
 trojan://telegram-id-privatevpns@51.21.50.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%20TR-TCP-TLS%20%20SE-51.21.50.116:22222
 trojan://telegram-id-directvpn@51.21.53.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@51.21.63.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-directvpn@51.21.67.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@51.21.7.106:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%20@MoftConfigSweden
@@ -6606,7 +6606,7 @@ trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=trj.rollingnext.c
 trojan://telegram-id-privatevpns@52.47.44.62:22222?security=tls&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.47.45.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%20@MoftConfigFrance
 trojan://telegram-id-privatevpns@52.47.53.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.47.56.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@52.47.56.53:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@52.47.56.53:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-privatevpns@52.47.56.93:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.47.59.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
@@ -6658,8 +6658,8 @@ trojan://telegram-id-privatevpns@52.57.57.22:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@52.57.57.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt%20am%20Mainping:30.7ms
 trojan://telegram-id-directvpn@52.57.86.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.57.94.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@52.58.118.168:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
-trojan://telegram-id-directvpn@52.58.118.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@52.58.118.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-directvpn@52.58.118.168:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@52.58.121.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.58.130.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.58.144.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)@MoftConfig
@@ -6680,7 +6680,7 @@ trojan://telegram-id-privatevpns@52.59.180.235:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.26.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.59.75.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.59.87.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
-trojan://telegram-id-directvpn@52.59.87.241:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-directvpn@52.59.87.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@52.59.96.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-directvpn@52.6.81.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@52.68.152.65:20230?security=tls&sni=421421.xyz#[]t.me/ConfigsHub
