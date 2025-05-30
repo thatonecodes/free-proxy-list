@@ -4281,7 +4281,7 @@ trojan://ouo@18.183.158.211:443/?type=tcp&security=tls&sni=tr.koxok.us.kg#%F0%9F
 trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@18.183.166.184:20230?security=tls&sni=421421.xyz#[]t.me/ConfigsHub
 trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@18.183.228.197:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#%20@MoftConfigJapan
 trojan://telegram-id-privatevpns@18.184.108.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)%F0%9F%87%A9%F0%9F%87%AAt.me/PrivateVPNs
-trojan://telegram-id-directvpn@18.184.108.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel%20:%20@DirectVPN
+trojan://telegram-id-directvpn@18.184.108.93:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk
 trojan://telegram-id-vlessconfig@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig
 trojan://telegram-id-privatevpns@18.184.146.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20303
 trojan://telegram-id-directvpn@18.184.146.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20230
