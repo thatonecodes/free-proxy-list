@@ -6648,7 +6648,7 @@ trojan://telegram-id-privatevpns@52.28.6.78:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.28.78.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.28.98.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-privatevpns@52.29.139.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)%F0%9F%87%A9%F0%9F%87%AAt.me/PrivateVPNs
-trojan://telegram-id-directvpn@52.29.139.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel%20:%20@DirectVPN
+trojan://telegram-id-directvpn@52.29.139.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-privatevpns@52.29.199.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt%20am%20Mainping:25.51ms
 trojan://telegram-id-directvpn@52.29.199.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfigGermanyFrankfurt%20am%20Mainping:25.45ms
 trojan://telegram-id-privatevpns@52.29.242.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
@@ -8680,8 +8680,8 @@ trojan://e47af2c3-5500-4dea-a4ae-6f0ea48c2e73@nc.cm.xiaomi-api.xyz:19574?allowIn
 trojan://a3fa58b581353bb375d2ddad0f327938@ned-server-01.selfupay.com:443?allowInsecure=0
 trojan://xtAM6MiBkpmKz2vi0EEmAA@net-1.toxi-speed.ir:2051?security=none&type=tcp&headerType=http&path=%2F&host=fararu.com#[]t.me/ConfigsHub
 trojan://mx6kJVChYH8uPAqKoGsP5w@net-1.toxi-speed.ir:2059?security=none&type=tcp&headerType=&path=&host=#Telegram:@IP_CF
-trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2051?security=none&amp;type=tcp&amp;headerType=http&amp;path=/&amp;host=fararu.com
-trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2059?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=
+trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2051?security=none&type=tcp&headerType=http&path=%2F&host=fararu.com#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping:26.43ms%60
+trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2059?security=none&type=tcp&headerType=&path=&host=#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt%20am%20Main%F0%9F%85%BF%EF%B8%8Fping:28.56ms%60
 trojan://3763495982449565696@neutral-magpie.treefrog761.one:443?security=tls&sni=neutral-magpie.treefrog761.one&allowInsecure=1&type=tcp#Telegram:@IP_CF
 trojan://Lutsyy96g9@new.viporg12345.info:17742?security=tls&headerType=none&type=tcp#%40v2rayng_org
 trojan://iHn351UKEa@new.viporg12345.info:21320
