@@ -1407,7 +1407,7 @@ trojan://NISHIKUITAN222@104.25.66.7:443?allowInsecure=1#%20TR-TCP-NA%20%20NA-104
 trojan://NISHIKUITAN222@104.25.76.106:443?#%E6%9C%AA%E7%9F%A536
 trojan://123456@104.25.97.27:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#4Kian-3366
 trojan://eea50240-af91-11ed-b638-205c6d5f5d78@104.251.123.106:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=bmi.ir#US
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://Aimer@104.26.0.227:443?sni=epccj.ambercc.filegear-sg.me#4Kian-4605
 trojan://Aimer@104.26.0.24:443?sni=epccv.ambercc.filegear-sg.me#4Kian-4606
 trojan://NISHIKUITAN222@104.26.1.19:443?#%20TR-TCP-NA%20%20NA-104.26.1.19:443
@@ -1764,7 +1764,6 @@ trojan://Aimer@121.144.201.72:12434?security=tls&sni=epccy.ambercc.filegear-sg.m
 trojan://Aimer@121.145.126.10:12578?allowInsecure=0&sni=epmq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
 trojan://Aimer@121.145.126.10:18048/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-121.145.126.10-2017
 trojan://Aimer@121.149.228.125:12315?sni=epcca.ambercc.filegear-sg.me#4Kian-4741
-trojan://Aimer@121.151.132.168:18058?security=tls&sni=epmq.ambercc.filegear-sg.me#4Sarina-4796
 trojan://Aimer@121.151.51.114:38422/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-121.151.51.114-1473
 trojan://Aimer@121.153.131.218:26656?security=tls&headerType=&type=tcp&sni=ageph.ambercc.filegear-sg.me#%20@MoftConfigSouth%20Korea
 trojan://Aimer@121.167.54.202:50000?sni=epme.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.167.54.202:50000
@@ -6471,7 +6470,7 @@ trojan://telegram-id-directvpn@51.21.46.119:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.21.49.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%20TR-TCP-TLS%20%20SE-51.21.49.146:22222
 trojan://telegram-id-privatevpns@51.21.50.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%20TR-TCP-TLS%20%20SE-51.21.50.116:22222
 trojan://telegram-id-directvpn@51.21.53.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@51.21.63.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-directvpn@51.21.67.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@51.21.7.106:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%20@MoftConfigSweden
@@ -8424,7 +8423,6 @@ trojan://74260704627805900@intense-hornet.shiner427.skin:443/?type=tcp&security=
 trojan://NISHIKUITAN222@ip.sb:2053?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E7%BE%8E%E5%9B%BD_27
 trojan://vip@ip.sb:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%F0%9F%8C%BB46%40oneclickvpnkeys
 trojan://11a4e5be-3c87-37d2-aac8-00b85ef0fcdc@iplc-enter-tw-xe.fib-sys.xyz:11451?allowInsecure=1&sni=tw-xe.fib-sys.xyz
-trojan://Dvxyg3j2TTgTGHrp5a@iplc-hk-4.trojanwheel.com:5001?security=tls&sni=iplc-hk-4.trojanwheel.com#4Sarina-5516
 trojan://w4lIYG3cMS6ZQH8jPu@iplc-hk-5.trojanwheel.com:5002?security=tls&sni=iplc-hk-5.trojanwheel.com#4Kian-6493
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@iplc.xiaohouzi.club:20011?security=tls&sni=iplc011.xiaohouzi.club#4Kian-3783
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20015?security=tls&sni=$$$supaz05.xiaohouzi.club#4Kian-3344
