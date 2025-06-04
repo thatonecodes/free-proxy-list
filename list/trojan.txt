@@ -1429,7 +1429,7 @@ trojan://NISHIKUITAN222@104.25.66.7:443?allowInsecure=1#%20TR-TCP-NA%20%20NA-104
 trojan://NISHIKUITAN222@104.25.76.106:443?#%E6%9C%AA%E7%9F%A536
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#4Kian-3378
 trojan://eea50240-af91-11ed-b638-205c6d5f5d78@104.251.123.106:443?mode=gun&security=tls&type=grpc&serviceName=trgrpc&sni=bmi.ir#US
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&amp;sni=hezijiasuqi.com&amp;allowInsecure=1&amp;type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://Aimer@104.26.0.227:443?sni=epccj.ambercc.filegear-sg.me#4Kian-4613
 trojan://Aimer@104.26.0.24:443?sni=epccv.ambercc.filegear-sg.me#4Kian-4614
 trojan://NISHIKUITAN222@104.26.1.19:443?#%20TR-TCP-NA%20%20NA-104.26.1.19:443
@@ -4123,7 +4123,6 @@ trojan://Aimer@175.196.105.220:12209/?type=tcp&security=tls&sni=epccq.ambercc.fi
 trojan://Aimer@175.199.169.221:50003/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-175.199.169.221-1426
 trojan://Aimer@175.199.227.244:50000?sni=epccx.ambercc.filegear-sg.me#4Kian-5183
 trojan://0588@175.203.30.93:50000/?type=tcp&security=tls&sni=888.uskm.dpdns.org&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@175.203.32.50:11602?allowInsecure=0&sni=epms.ambercc.filegear-sg.me#4Jadi-5134
 trojan://Aimer@175.205.119.253:38422/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-175.205.119.253-1421
 trojan://Aimer@175.214.237.120:50000/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@175.215.175.175:50003?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#4Kian-5185
@@ -5198,7 +5197,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#4
 trojan://Aimer@220.118.166.81:50003?security=tls&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#KR%E9%9F%A9%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Aimer@220.118.248.123:12302?security=tls&sni=epmq.ambercc.filegear-sg.me&type=ws&host=epmq.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E9%9F%A9%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://Aimer@220.118.248.123:12490?security=tls&sni=epmd.ambercc.filegear-sg.me#4Kian-5317
-trojan://Aimer@220.118.248.123:16058?allowInsecure=0&sni=epma.ambercc.filegear-sg.me#4Jadi-5284
 trojan://Aimer@220.120.139.237:12189?sni=epmd.ambercc.filegear-sg.me&allowInsecure=0#4Kian-5318
 trojan://Aimer@220.120.172.116:33522?security=tls&sni=epmq.ambercc.filegear-sg.me&type=ws&host=epmq.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%E9%9F%A9%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://Aimer@220.122.114.61:10071?security=tls&headerType=&type=tcp&sni=agepy.aimercc.filegear-sg.me#%20@MoftConfigSouth%20Korea
@@ -7304,7 +7302,6 @@ trojan://sharevpn@67.220.72.41:443?security=tls&sni=tlsh2ss.mynode.work.gdh2,htt
 trojan://Aimer@67.226.221.102:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#4Kian-5451
 trojan://Aimer@67.226.221.104:80/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-67.226.221.104-2019
 trojan://Aimer@67.226.221.199:80?security=tls&sni=epms.ambercc.filegear-sg.me#4Kian-5453
-trojan://Aimer@67.226.221.210:80?allowInsecure=0&sni=epma.ambercc.filegear-sg.me#4Jadi-5438
 trojan://Aimer@67.226.221.3:80?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[]t.me/MoftConfig
 trojan://496202d8-19c4-4023-ad85-04217a74e790@68.183.228.213:10001
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@68d4995d0915cf68346b4e8dabcf0156.v1.cac.node-is.green:45889/?type=tcp&security=tls&sni=sg1.bilibili.com&allowInsecure=1#%F0%9F%A5%9750%40oneclickvpnkeys
