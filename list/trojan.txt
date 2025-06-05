@@ -1801,7 +1801,7 @@ trojan://Aimer@121.151.51.114:38422/?type=tcp&security=tls&sni=agept.ambercc.fil
 trojan://Aimer@121.153.131.218:26656?security=tls&headerType=&type=tcp&sni=ageph.ambercc.filegear-sg.me#%20@MoftConfigSouth%20Korea
 trojan://Aimer@121.167.54.202:50000?sni=epme.ambercc.filegear-sg.me&allowInsecure=0#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-121.167.54.202:50000
 trojan://Aimer@121.175.158.112:28015?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[]t.me/ConfigsHub
-trojan://Aimer@121.175.16.6:10023?security=tls&sni=epms.ambercc.filegear-sg.me#4Sarina-4767
+trojan://Aimer@121.175.16.6:10023?allowInsecure=0&sni=epms.ambercc.filegear-sg.me#%E9%9F%A9%E5%9B%BD_0604003
 trojan://Aimer@121.176.175.54:32444/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR-121.176.175.54-1420
 trojan://Aimer@121.178.83.129:30006/?type=ws&host=agepl.ambercc.filegear-sg.me&security=tls&sni=agepl.ambercc.filegear-sg.me#%20@MoftConfigSouth%20Korea
 trojan://Aimer@121.180.184.145:50000?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%20@MoftConfigSouth%20Korea
@@ -1836,7 +1836,6 @@ trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#4K
 trojan://Aimer@129.146.226.222:587?sni=ngepz.ambercc.filegear-sg.me#4Kian-4776
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#4Kian-3263
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#4Kian-6155
-trojan://Aimer@129.150.52.254:443?security=tls&sni=epms.ambercc.filegear-sg.me#4Sarina-4778
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@129.151.163.120:25131?allowInsecure=1&sni=www.cloudflare.com#[]t.me/MoftConfig
 trojan://9e4fa728-3d7d-4371-8053-f175c019ef2c@129.152.28.100:443?allowInsecure=1&sni=yangleduo.cf
 trojan://Aimer@129.154.207.203:443?sni=agept.ambercc.filegear-sg.me#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-129.154.207.203:443
@@ -5072,7 +5071,6 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sn
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1&type=tcp#4Kian-3715
 trojan://Aimer@204.110.220.188:80?sni=epms.ambercc.filegear-sg.me&allowInsecure=0#4Kian-5290
 trojan://Aimer@204.110.223.105:80?sni=epccc.ambercc.filegear-sg.me#4Kian-5291
-trojan://Aimer@204.110.223.165:80?security=tls&sni=epms.ambercc.filegear-sg.me#4Sarina-5288
 trojan://C931CWacy8@204.216.214.102:44386?type=tcp&allowInsecure=1
 trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com#12%2C13%7C%E6%96%B0%E5%8A%A0%E5%9D%A16%7C%40ripaojiedian
 trojan://3d2ed150-1019-11ee-8007-1239d0255272@206.168.190.219:2087?security=tls&sni=ba24.ir&allowInsecure=1&type=tcp#4Kian-3565
@@ -7303,7 +7301,6 @@ trojan://bv4kWm6T3P8Y@67.219.104.8:443?sni=ash.5d763913-78d9-47ba-b1da-0c94e50b6
 trojan://sharevpn@67.220.72.41:443?security=tls&sni=tlsh2ss.mynode.work.gdh2,http/1.1&type=http&path=%2F#%20TR-HTTP-TLS%20%20US-67.220.72.41:443
 trojan://Aimer@67.226.221.102:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#4Kian-5475
 trojan://Aimer@67.226.221.104:80/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-67.226.221.104-2019
-trojan://Aimer@67.226.221.199:80?security=tls&sni=epms.ambercc.filegear-sg.me#4Sarina-5472
 trojan://Aimer@67.226.221.210:80?security=tls&sni=epma.ambercc.filegear-sg.me#4Kian-5477
 trojan://Aimer@67.226.221.3:80?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[]t.me/MoftConfig
 trojan://496202d8-19c4-4023-ad85-04217a74e790@68.183.228.213:10001
@@ -7391,7 +7388,6 @@ trojan://NISHIKUITAN222@8.219.174.142:8443?type=ws&allowInsecure=1&path=/&host=t
 trojan://NISHIKUITAN222@8.219.191.40:8443?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E7%BE%8E%E5%9B%BD_208
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@8.220.134.136:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D8.220.134.136%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2029
 trojan://NISHIKUITAN222@8.222.191.138:8443?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E7%BE%8E%E5%9B%BD_120
-trojan://Aimer@8.222.223.51:443?security=tls&sni=epmd.ambercc.filegear-sg.me#4Sarina-5482
 trojan://Aimer@8.223.15.4:443?allowInsecure=1&sni=agepl.ambercc.filegear-sg.me#%20@MoftConfigHong%20Kong
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@8.2gyh5ybsic.xyz:20108/?type=tcp&security=tls&sni=8.2gyh5ybsic.xyz&allowInsecure=1#%20@MoftConfigChina
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@80.225.222.181:10240/?type=tcp&security=tls&sni=www.hk-jd.top#[]t.me/MoftConfig
