@@ -7211,6 +7211,7 @@ trojan://bpb-trojan@35.201.203.106:443?allowInsecure=0&sni=skwygx.top#[]t.me/Mof
 trojan://jpgcp@35.221.86.68:443?allowInsecure=1
 trojan://Aimer@35.234.3.153:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram%60
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@35.73.42.174:443?security=tls&sni=it.mjt000.com#@Vip_Security%20join%20us%20-%2055
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@35.74.100.79:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2016%20%7C%20Tir-19%7C%20MTSRVRS
 trojan://3669023846591373312@35.75.186.204:443/?type=tcp&security=tls&sni=equipped-parakeet.pigeon031.one#%40Hope_Net-join-us-on-Telegram
 trojan://2bec0faf-7a2e-36ea-a603-19303a5ec6d3@35.75.8.137:443?sni=fastly.cdn.steampipe.steamcontent.com&allowInsecure=1#%20TR-TCP-NA%20%20JP-35.75.8.137:443
 trojan://2155145a-b1b5-443a-8977-670f6bd10f02@35.76.119.22:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1#[]t.me/ConfigsHub
@@ -8899,7 +8900,7 @@ trojan://telegram-id-privatevpns@63.178.27.177:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@63.178.27.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@63.178.28.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20475
 trojan://telegram-id-directvpn@63.178.28.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20357
-trojan://telegram-id-privatevpns@63.178.31.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@63.178.31.204:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@63.178.31.204:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#OurChannel
 trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
@@ -11690,7 +11691,7 @@ trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.jucer001.click:10190/?type=tcp
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.jucer001.click:10870/?type=tcp&security=tls&sni=www.jucer001.click#[]t.me/ConfigsHub
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.mashable.com:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#www.mashable.com
 trojan://vip@www.pcmag.com:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%F0%9F%8C%BB56%40oneclickvpnkeys
-trojan://vip@www.shopify.com:443?allowInsecure=1&sni=heihu880.pages.dev&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20666
+trojan://vip@www.shopify.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@www.speedtest.net:2052?path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.ua1.vless.sitespeedtest.net&type=httpupgrade#IR-%40V2ray_Alpha-9
 trojan://Bc%23%3F%3Fcut0k9l@www.speedtest.net:2053?path=%2FtrfoKzrMN87amrjlOx%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&fp=randomized&type=ws&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV#@MoftConfigCanadaTorontoping:15.58ms
 trojan://S%2AvVs%23PaV5p_RrjF@www.speedtest.net:2087/?type=ws&host=domain2025.dpdns.org&path=%2FtrTvVRHoW7Lc21mx0P%3Fed%3D2560&security=tls&sni=DOmAIn2025.dpDnS.oRG&alpn=http%2F1.1&fp=randomized#@MoftConfigCanadaTorontoping:13.16ms
