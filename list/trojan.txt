@@ -8891,7 +8891,7 @@ trojan://telegram-id-privatevpns@63.178.27.177:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@63.178.27.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 trojan://telegram-id-privatevpns@63.178.28.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20475
 trojan://telegram-id-directvpn@63.178.28.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security%20join%20us%20-%20357
-trojan://telegram-id-privatevpns@63.178.31.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://telegram-id-privatevpns@63.178.31.204:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@63.178.31.204:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#OurChannel
 trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
@@ -11676,7 +11676,7 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.hugedomains.com:443/?type=ws&h
 trojan://vip@www.iakeys.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#@v2ray_configs_poolCanadaTorontoping:8.88ms%60
 trojan://vip@www.ipaddress.my:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://vip@www.ipchicken.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
-trojan://vip@www.ipget.net:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#@Vip_Security%20join%20us%20-%20505
+trojan://vip@www.ipget.net:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:9.72ms
 trojan://vip@www.iplocation.net:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#@Vip_Security%20join%20us%20-%20579
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.jucer001.click:10190/?type=tcp&security=tls&sni=www.jucer001.click#[]t.me/ConfigsHub
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.jucer001.click:10870/?type=tcp&security=tls&sni=www.jucer001.click#[]t.me/ConfigsHub
