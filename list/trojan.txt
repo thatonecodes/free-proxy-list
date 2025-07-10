@@ -3779,6 +3779,7 @@ trojan://telegram-id-directvpn@16.171.180.132:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@16.171.186.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.171.189.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)@MoftConfig
 trojan://telegram-id-directvpn@16.171.189.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
+trojan://telegram-id-privatevpns@16.171.190.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 trojan://telegram-id-directvpn@16.171.191.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-directvpn@16.171.202.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
 trojan://telegram-id-directvpn@16.171.213.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our%20Channel%20:%20@DirectVPN
@@ -6180,6 +6181,7 @@ trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.36:443?security=tls&sni=
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443?security=tls&sni=pus2.pqjc.buzz&allowInsecure=1&type=tcp#4Kian-3394
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.89:443?security=tls&sni=pus3.pqjc.buzz&allowInsecure=1&type=tcp#4Kian-3395
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.227.60.8:443
+trojan://7ac49a893e0bd10c@23.247.137.161:443?security=tls&alpn=h2&type=grpc&serviceName=db&sni=TG.WangCai2#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2060%20%7C%20Tir-20%7C%20MTSRVRS
 trojan://3c4e10af98c30972@23.247.137.64:443?security=tls&sni=n2.gladns.com&type=grpc&serviceName=db&alpn=h2#%F0%9F%94%92%20TR-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.247.137.64:443
 trojan://d4e41ff772c7fd45@23.247.137.70:3389/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-23.247.137.70-4302
 trojan://2af31107-e577-4995-8247-e8a57855e90b@23.247.138.108:10011?allowInsecure=1&sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe
